@@ -1,0 +1,23 @@
+PROJECT: Student Management System
+
+Language: C++
+Type : Console Application
+
+Student Data:
+-ID
+-Name
+-Age
+-Course
+
+Functions:
+1. addstudent()
+2. displaystudents()
+
+Data Structure:
+-struct Student
+-vector<student>
+
+Menu:
+1.Add Student
+2.Display Students
+3.Exit
