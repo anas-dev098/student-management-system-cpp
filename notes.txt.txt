@@ -4,18 +4,19 @@ Language: C++
 Type : Console Application
 
 Student Data:
--ID
 -Name
+-Roll no.
 -Age
 -Course
+-Marks
 
 Functions:
-1. addstudent()
-2. displaystudents()
+1. input()
+2. display()
 
 Data Structure:
--struct Student
--vector<student>
+-Class Student
+-Array
 
 Menu:
 1.Add Student
